@@ -1,2 +1,3 @@
-# Hilbert-Look-Ahead-Maze-Generator
-Una implementación del algoritmo de creación de laberintos perfectos "Hilbert Look  Ahead" en python.
+## Instrucciones
+- Correr HLAMG.py
+- Pulsar ENTER si se desea generar de nuevo.
